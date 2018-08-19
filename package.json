@@ -1,0 +1,29 @@
+{
+  "name": "geekbrains_js2",
+  "version": "1.0.0",
+  "description": "js2 lesson7",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burakovas/geekbrains_js2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burakovas/geekbrains_js2/issues"
+  },
+  "homepage": "https://github.com/burakovas/geekbrains_js2#readme",
+  "dependencies":{
+    "jquery": "^3.3.1"
+  },
+
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}

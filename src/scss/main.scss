@@ -1,0 +1,11 @@
+.main{
+  & > span {
+    width: percentage(2/10)
+  }
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
